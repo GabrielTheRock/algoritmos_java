@@ -1,2 +1,2 @@
 # linguagem_programacao
-Exercícios da disciplina de Linguagem de Programacao feitos em Java.
+Exercícios da disciplina de Linguagem de Programação feitos em Java.
